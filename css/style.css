@@ -14,7 +14,7 @@ body {
 }
 
 .mainDiv > div {
-    display: inline-block;
+   
     height: 200px;
     width: 200px;
     margin: 0 auto;
